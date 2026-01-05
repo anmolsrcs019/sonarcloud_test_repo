@@ -1,2 +1,7 @@
-# sonarcloud_test_repo
-Created for testing on Sonarqube Cloud Platform
+# SonarCloud Python Demo
+
+Small multi-file Python project used to test SonarCloud analysis.
+
+## Run tests
+```bash
+pytest
